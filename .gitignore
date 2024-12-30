@@ -1,0 +1,30 @@
+# Node modules
+node_modules
+
+# Build output
+/build
+
+# Environment variables
+.env
+
+# npm debug log
+npm-debug.log
+
+# Yarn error log
+yarn-error.log
+
+# Log files
+*.log
+
+# Coverage reports
+coverage
+
+# Process ID files
+*.pid
+
+# IDE and editor files
+.idea
+.vscode
+*.swp
+*.swo
+*.cache
