@@ -1,0 +1,11 @@
+{
+  "start_dev": "Starts both client and server in development mode.",
+  "start_client": "Starts the React client application.",
+  "start_server": "Starts the Node.js server application.",
+  "install": "Installs project dependencies.",
+  "build_client": "Builds the React client for production.",
+  "test": "Runs tests.",
+    "lint": "Runs linters and formatters",
+  "deploy": "Builds and deploys the application.",
+  "seed_database": "Seeds the database with initial data."
+}
